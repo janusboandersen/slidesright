@@ -31,4 +31,8 @@ Use best-practice methods from management consulting to structure presentations 
 ![Quickly equalize shapes](./img/SmartEqualize.png)
 
 
-This project from 2013-2014 is not currently open source. Let me know if there's interest in having an update for 2020+ :dizzy: or for having it open sourced - would you like to contribute to it? :star_struck:
+This project from 2013-2014 is not currently open source. 
+
+Let me know if there's interest in having an update for 2020+ :dizzy: 
+
+...or maybe for having it open sourced? - would you like to contribute to Slidesright? :star_struck:
