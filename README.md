@@ -1,11 +1,10 @@
-# Slidesright PowerPoint add-in for efficiently making management consultant style presentations
+# Slidesright PowerPoint add-in for efficiently making management consultant style presentations :rocket:
 
 Use best-practice methods from management consulting to structure presentations and communicate your message clearly.
 
-### Give better structure to your presentations and hand-outs with dynamic tables of content / agenda slides
+### Organize presentations and hand-outs with dynamic tables of content / multiple agenda slides
 
 ![Agenda slides](./img/AgendaSlides.png)
-
 
 ### Structure your slides better with best-practice layouts, organize your content with structure elements
 
@@ -32,4 +31,4 @@ Use best-practice methods from management consulting to structure presentations 
 ![Quickly equalize shapes](./img/SmartEqualize.png)
 
 
-This is a project from 2013-2014. Let me know if there's interest in having an update for 2020+.
+This is a project from 2013-2014. Let me know if there's interest in having an update for 2020+ :dizzy:
